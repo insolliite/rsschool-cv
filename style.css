@@ -1,8 +1,24 @@
-header h1 {
-   font-size: 70px;
-   font-weight: 600;
-   background-image: linear-gradient(to left, #553c9a, #b393d3);
-   color: transparent;
-   background-clip: text;
-   -webkit-background-clip: text;
+
+
+body { 
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 25px;
+} 
+ body{
+
+   background-color: rgb(255, 255, 255);
+
+}
+.header
+h1 {
+
+   color: rgb(128, 16, 128);
+
  }
+ .main 
+ h2
+ {color: rgb(197, 103, 103)}
+ .leftimg {
+   float:left;
+   margin: 7px 10px 10px 0;
+  }
